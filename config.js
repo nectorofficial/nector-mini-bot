@@ -43,7 +43,7 @@ module.exports = {
     // GitHub Settings
     GITHUB_OWNER: process.env.GITHUB_OWNER || 'ⓃⒺCⓉOR🍯', //add your github username
     GITHUB_REPO: process.env.GITHUB_REPO || 'session', // add your github repo name
-    GITHUB_TOKEN: process.env.GITHUB_TOKEN || '', //add your github token
+    GITHUB_TOKEN: process.env.GITHUB_TOKEN || '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', //add your github token
     
     // API Keys
     TIKTOK_API_KEY: process.env.TIKTOK_API_KEY || 'free_key@maher_apis',
